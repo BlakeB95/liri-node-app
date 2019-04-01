@@ -1,6 +1,6 @@
 # liri-node-app
 
-Liri is a Node JS application that searches information for media based upon user query utlizing several APIs. It has four functional commands and a logging mechanism.
+Liri is a Node JS application that searches information for media based upon user query utlizing several APIs called via axios. It has four functional commands and a logging mechanism.
 
 Demonstration:
   https://youtu.be/vZY_CD7P6sc
