@@ -3,7 +3,7 @@
 Liri is a Node JS application that searches information for media based upon user query utlizing several APIs. It has four functional commands and a logging mechanism.
 
 Commands:
-concert-this <artist>
+concert-this <artist>\n
   Returns data of the next concert of the artist specified using the Bands In Town API.
 
 spotify-this-song <song>
