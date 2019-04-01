@@ -2,6 +2,10 @@
 
 Liri is a Node JS application that searches information for media based upon user query utlizing several APIs. It has four functional commands and a logging mechanism.
 
+Demonstration:
+  https://youtu.be/vZY_CD7P6sc
+  
+
 Commands:
 1. concert-this "artist"
 
@@ -19,6 +23,4 @@ Commands:
 
   - Executes the specified line found in "random.txt"
   
-Demonstration:
-  https://youtu.be/vZY_CD7P6sc
-  
+
